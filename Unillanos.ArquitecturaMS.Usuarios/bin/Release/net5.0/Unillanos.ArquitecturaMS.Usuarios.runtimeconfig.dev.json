@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\NEIDA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\NEIDA\\.nuget\\packages"
+    ]
+  }
+}
